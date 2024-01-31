@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+#main{
+text-align: center;
+min-height: 100vh;
+background-image:  linear-gradient(to right,orange,white,green);
+}
+.content{
+    text-align: center;
+    font-weight: larger;
+    color: black;
+    padding: 20px;
+}
+p{
+    font-weight:bold;
+    font-size: 35px;
+}
+#Countdown{
+    font-weight: bolder;
+    font-size: 100px;
+    
+}
